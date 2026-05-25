@@ -207,7 +207,7 @@ ORDER BY total_depletion DESC;
 
 **Deepak Kumar**  
 B.Tech Chemical Engineering, Delhi Technological University  
-[LinkedIn](https://linkedin.com/in/krdeepak1114) 
+[LinkedIn](www.linkedin.com/in/deepak1114) 
 
 ---
 
