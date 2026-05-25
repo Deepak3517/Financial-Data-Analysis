@@ -205,9 +205,7 @@ ORDER BY total_depletion DESC;
 
 ## Author
 
-**Deepak Kumar**  
-B.Tech Chemical Engineering, Delhi Technological University  
-[LinkedIn](www.linkedin.com/in/deepak1114) 
+**Deepak** | [LinkedIn](www.linkedin.com/in/deepak1114) 
 
 ---
 
